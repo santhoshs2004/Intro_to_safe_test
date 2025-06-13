@@ -1,0 +1,142 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Mit Canteen":
+    - /url: index.html
+    - heading "Mit Canteen" [level=1]
+  - navigation:
+    - list:
+      - listitem:
+        - link " Home":
+          - /url: index.html
+      - listitem:
+        - link " Our Vision":
+          - /url: our-vision.html
+      - button "Log In"
+      - button "Sign Up"
+- banner:
+  - navigation
+- text: Welcome back! 
+- list:
+  - listitem:
+    - button ""
+  - listitem:
+    - button ""
+  - listitem:
+    - button ""
+- textbox "Email Id"
+- textbox "Password"
+- button "Login"
+- checkbox "Remember me" [checked]
+- text: Remember me Click “Sign In” to agree to Terms of Service and acknowledge that Privacy Policy applies to you. No account? Create one
+- img "Home Page Image"
+- main:
+  - heading "Pocket Friendly Cafe" [level=1]
+  - article:
+    - img "Home Canteen Image"
+    - heading "Asian Cuisines & Beverages" [level=3]
+    - paragraph: Each and every day we strive to better serve our community, customers with food that's fresh, tasty and healthy. Sumptuous delicious food baked in our cafe with curated ingredients and recipes
+    - paragraph: Savour the creamy goodness of Champion Fruit Cream. We bet, there's the goodness of cream in every bite!
+    - list:
+      - listitem:
+        - link "":
+          - /url: https://www.youtube.com/channel/UC1v5h3FrfV2_r8qUxCbld3g
+      - listitem:
+        - link "":
+          - /url: https://www.facebook.com/malwainstitute/
+      - listitem:
+        - link "":
+          - /url: https://www.instagram.com/malwa_institute_of_technology/
+- separator
+- main:
+  - article:
+    - heading "__ Come and Dine __" [level=1]
+    - heading "with the finest" [level=6]
+  - article:
+    - heading "Fresh Daily" [level=4]
+    - paragraph: Savour the creamy goodness of Champion Fruit Cream. We bet, there's the goodness of cream in every bite!
+    - heading "Savoury & Creamy" [level=4]
+    - paragraph: Sumptuous delicious food baked in our cafe with curated ingredients and recipes curated ingredients and recipes.
+    - heading "Good Food" [level=4]
+    - paragraph: Each and every day we strive to better serve our community, customers with food that's fresh, tasty and healthy.
+- main:
+  - heading "Our Most Loved Dishes" [level=1]
+  - link "Masala Sandwich      Canteen Dishes Sumptuous delicious food baked in our cafe with curated ingredients ₹ 30":
+    - /url: "#"
+    - heading "Masala Sandwich" [level=2]
+    - text:     
+    - img "Canteen Dishes"
+    - paragraph: Sumptuous delicious food baked in our cafe with curated ingredients
+    - heading "₹ 30" [level=3]
+  - link "Red Pasta      Canteen Dishes Sumptuous delicious food baked in our cafe with curated ingredients ₹ 45":
+    - /url: "#"
+    - heading "Red Pasta" [level=2]
+    - text:     
+    - img "Canteen Dishes"
+    - paragraph: Sumptuous delicious food baked in our cafe with curated ingredients
+    - heading "₹ 45" [level=3]
+  - link "White Pasta      Canteen Dishes Sumptuous delicious food baked in our cafe with curated ingredients ₹ 25":
+    - /url: "#"
+    - heading "White Pasta" [level=2]
+    - text:     
+    - img "Canteen Dishes"
+    - paragraph: Sumptuous delicious food baked in our cafe with curated ingredients
+    - heading "₹ 25" [level=3]
+  - link "French Fries      Canteen Dishes Sumptuous delicious food baked in our cafe with curated ingredients ₹ 35":
+    - /url: "#"
+    - heading "French Fries" [level=2]
+    - text:     
+    - img "Canteen Dishes"
+    - paragraph: Sumptuous delicious food baked in our cafe with curated ingredients
+    - heading "₹ 35" [level=3]
+- img "Home Page Image"
+- contentinfo:
+  - main:
+    - article:
+      - heading "about" [level=1]
+      - paragraph: Malwa Institute of Technology is governed by Indus Global Educational & Welfare Society which was founded in 2003 by a group of industrialists and educationalists who shared a vision of establishing centers of scientific learning around the country.
+      - list:
+        - listitem:
+          - text: 
+          - link "Facebook":
+            - /url: https://www.facebook.com/malwainstitute/
+        - listitem:
+          - text: 
+          - link "Instagram":
+            - /url: https://www.instagram.com/malwa_institute_of_technology/
+    - article:
+      - list:
+        - heading "Quick Links" [level=1]
+        - listitem:
+          - link "Canteen Home":
+            - /url: index.html
+        - listitem:
+          - link "Our Vision":
+            - /url: our-vision.html
+        - listitem:
+          - link "Git Repository":
+            - /url: https://github.com/rvutd/mit-canteen-site
+        - listitem:
+          - link "MIT Indore":
+            - /url: https://mitindore.co.in/
+    - article:
+      - list:
+        - heading "Contact Information" [level=1]
+        - listitem:
+          - text: 
+          - paragraph: +91-731-2810001-08
+        - listitem:
+          - text: 
+          - paragraph: admission@mitindore.co.in
+        - listitem:
+          - text: 
+          - paragraph: Indore-Dewas Bypass Road, Indore (MP)-452016
+        - listitem:
+          - text: 
+          - paragraph: "For Professional Courses, Visit: www.altius.ac.in"
+  - main:
+    - text: © Copyright 2020 - 2021. All Rights Reserved Designed & Developed with  By
+    - link "Deep Devs":
+      - /url: "#"
+```
